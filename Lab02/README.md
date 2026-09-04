@@ -7,7 +7,7 @@
 - Lớp: EEE.AI-24106.1
 - GitHub username: https://github.com/AIVIETNAM-AIO-Tung
 
-> Vui lòng điền đầy đủ thông tin cá nhân trước khi nộp bài.
+
 
 ## Mục tiêu
 
