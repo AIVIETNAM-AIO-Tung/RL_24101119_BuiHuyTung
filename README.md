@@ -10,3 +10,5 @@ GitHub username: (https://github.com/AIVIETNAM-AIO-Tung)
 - [Lab01 - Lam quen voi Gymnasium](./Lab01/)
 - Lab02 - Complete 
 - Lab03 - Complete 
+- TH1_Gym_Tutorial.ipynb - Complete
+- Th2.1.Enviromants - Complete
